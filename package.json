@@ -1,0 +1,12 @@
+{
+  "name": "opshub-relay",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "relay.mjs",
+  "scripts": {
+    "start": "node relay.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
